@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Transport Time</string>
+
+    <string name="walking">Walking</string>
+    <string name="walking_speed">3.1</string>
+    <string name="walking_range">30</string>
+
+    <string name="boost_board">Boosted Mini S Board</string>
+    <string name="boost_board_speed">18</string>
+    <string name="boost_board_range">7</string>
+
+    <string-array name="transport_select">
+        <item>Walking</item>
+        <item>Boosted Mini S Board</item>
+        <item>Evolve Skateboard</item>
+        <item>Segway i2 SE</item>
+        <item>Hovertrax Hoverboard</item>
+    </string-array>
+
+    <string name="evolve">Evolve_Skateboard</string>
+    <string name="evolve_speed">26</string>
+    <string name="evolve_range">31</string>
+
+    <string name="segway">Segway i2 SE</string>
+    <string name="segway_speed">12.5</string>
+    <string name="segway_range">24</string>
+
+    <string name="hoverboard">Hovertrax Hoverboard</string>
+    <string name="hoverboard_speed">8</string>
+    <string name="hoverboard_range">8</string>
+
+
+
+
+</resources>
